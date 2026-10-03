@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://leads.targetdigital.com.au/sitemap.xml
